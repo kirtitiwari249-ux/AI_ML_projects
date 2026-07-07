@@ -1,4 +1,4 @@
-# AI_ML_projects
+# Machine Learning_projects
 # PyTorch Linear Regression
 
 This repository contains my PyTorch Linear Regression project built using Python and Google Colab. It demonstrates training a machine learning model to make predictions on real-world datasets.
